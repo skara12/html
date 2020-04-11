@@ -1,0 +1,45 @@
+body{
+	
+	background : blue;
+	
+	
+	
+}
+.main{
+	
+	
+	width: 1000px;
+	height : auto;
+	margin : 25px auto;
+	background : white;
+	
+	
+	
+}
+h1{
+	
+	text-align: center;
+	
+	
+}
+p{
+	
+	padding : 10px;
+	font-family: "Calibri";
+	font-size: 14pt;
+	line-height: 1.5;
+	
+	
+}
+ul{
+	
+	list-style-type : none;
+	
+	
+}
+li{
+	
+	display : inline;
+	
+}
+
